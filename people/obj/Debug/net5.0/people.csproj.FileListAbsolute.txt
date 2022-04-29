@@ -1,0 +1,16 @@
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\bin\Debug\net5.0\people.exe
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\bin\Debug\net5.0\people.deps.json
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\bin\Debug\net5.0\people.runtimeconfig.json
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\bin\Debug\net5.0\people.runtimeconfig.dev.json
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\bin\Debug\net5.0\people.dll
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\bin\Debug\net5.0\ref\people.dll
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\bin\Debug\net5.0\people.pdb
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\obj\Debug\net5.0\people.csproj.AssemblyReference.cache
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\obj\Debug\net5.0\people.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\obj\Debug\net5.0\people.AssemblyInfoInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\obj\Debug\net5.0\people.AssemblyInfo.cs
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\obj\Debug\net5.0\people.csproj.CoreCompileInputs.cache
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\obj\Debug\net5.0\people.dll
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\obj\Debug\net5.0\ref\people.dll
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\obj\Debug\net5.0\people.pdb
+C:\Users\luke1\OneDrive - Swinburne University\Programming\Cookies and people\people\obj\Debug\net5.0\people.genruntimeconfig.cache
